@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=shankar212&color=blue)
 
 <!-- Add a stylish banner or image here -->
 <div align="center" style="border-radius: 20px; overflow: hidden;">
