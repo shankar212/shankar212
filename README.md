@@ -8,7 +8,7 @@
 
 
 # Hi there 👋I'm Rathod Shanker
-#### Full-Stack Developer |  NITW'26 MCA Student | Former Senior Analyst at Cognizant | Data & Tech Enthusiast |Sketch Artist 🎨
+####   NITW'26 MCA Student | Former Senior Analyst at Cognizant | Full-Stack Developer | Data & Tech Enthusiast |Sketch Artist 🎨
 
 
 Welcome to my portfolio! I'm Rathod Shanker, a tech enthusiast and a Full-Stack Developer currently pursuing my Postgraduate 🎓 degree at NIT Warangal. I bring code to life while expressing my creativity through sketches🎨. I'm passionate about web development and take pride in writing clean and efficient code. Welcome to my GitHub repository! <br>
@@ -19,9 +19,9 @@ Welcome to my portfolio! I'm Rathod Shanker, a tech enthusiast and a Full-Stack 
 
 ## 🚀 Skills
 - **Full-stack Java Development**
-- **Front-end Development (HTML, CSS, JavaScript)**
-- **Back-end Development (CPP, Java, Spring Boot)**
-- **Database Management (SQL)**
+- **Front-end Development (HTML, CSS, Bootstrap, JavaScript)**
+- **Back-end Development (CPP, Java, Spring Boot, AngularJS)**
+- **Database Management (MySQL)**
 - **Problem Solving**
 - **Clean and Efficient Code Writing**
 
