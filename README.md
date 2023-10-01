@@ -115,6 +115,6 @@ Explore the repo to see the system in action.
 </details>
 
 ## 📬 Contact
-Feel free to reach out to me via email at [shankerr7780@gmail.com](mailto:shankerr7780@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rathod-shanker-4a609421b/).
+Feel free to reach out to me via email at [shankerr7780@gmail.com](mailto:shankerr7780@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rathod-shanker-4a609421b/). [Instagram](https://www.instagram.com/shanker_rathodd/).
 
 <!-- Add any additional sections or information you'd like to include -->
