@@ -14,7 +14,7 @@
 
 Welcome to my portfolio! I'm Rathod Shanker, a tech enthusiast and a Full-Stack Developer currently pursuing my Postgraduate 🎓 degree at NIT Warangal. I bring code to life while expressing my creativity through sketches🎨. I'm passionate about Full Stack development and take pride in writing clean and efficient code. Welcome to my GitHub repository! <be> 
 <br>
-[Portfolio👨‍💻](https://shankar212.github.io/Myportfolio/portfolio)
+[Portfolio👨‍💻](https://shankar212.github.io/portfolio/portfolio)
 
 <details>
 <summary>More About Me</summary>
