@@ -45,7 +45,7 @@ AI-driven tool matching resumes to job descriptions with a compatibility score.
 - Extracts text from PDFs & analyzes keyword/skill matches  
 - Generates a 0–100 score with actionable feedback  
 - CSV export for streamlined recruitment workflows  
-[🔗 Live Demo](https://ai-resume-matching.streamlit.app) · [🔗 Repo](https://github.com/shankar212/AI-Resume-Matcher)
+[🔗 Live Demo](https://ai-resume-matching.streamlit.app) · [🔗 Repo](https://github.com/shankar212/ai-resume)
 
 ---
 
