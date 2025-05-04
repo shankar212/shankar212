@@ -1,121 +1,120 @@
 ![](https://komarev.com/ghpvc/?username=shankar212&color=blue)
 
-<!-- Add a stylish banner or image here -->
-<div align="center" style="border-radius: 20px; overflow: hidden;">
+<!-- Banner Image -->
+<div align="center" style="border-radius: 20px; overflow: hidden; margin-bottom: 1rem;">
   <img src="https://media.licdn.com/dms/image/D5616AQH1_i0LlBcqig/profile-displaybackgroundimage-shrink_200_800/0/1676824743739?e=2147483647&v=beta&t=PWOflII_6LxTjFv1GYbIxZFrbGEhncICOuLZAD_HUUs" alt="Banner" style="width: 100%;">
 </div>
 
+# Hi there 👋 I'm Rathod Shanker  
+#### NITW ’26 MCA Student | Former Senior Analyst at Cognizant | Full-Stack Developer | Data & Tech Enthusiast | Sketch Artist 🎨  
 
+Welcome to my GitHub! I’m Rathod—combining code with creativity. Currently pursuing my MCA at NIT Warangal, I build full-stack applications by day and sketch by night. Explore below!
 
+[🔗 Portfolio](https://shankar212.github.io/portfolio/portfolio)  
 
-# Hi there 👋I'm Rathod Shanker
-####   NITW'26 MCA Student | Former Senior Analyst at Cognizant | Full-Stack Developer | Data & Tech Enthusiast |Sketch Artist 🎨
+---
 
+## 📚 Education
+**Master of Computer Applications**  
+National Institute of Technology, Warangal · **Class of 2026**
 
-Welcome to my portfolio! I'm Rathod Shanker, a tech enthusiast and a Full-Stack Developer currently pursuing my Postgraduate 🎓 degree at NIT Warangal. I bring code to life while expressing my creativity through sketches🎨. I'm passionate about Full Stack development and take pride in writing clean and efficient code. Welcome to my GitHub repository! <be> 
-<br>
-[Portfolio👨‍💻](https://shankar212.github.io/portfolio/portfolio)
+---
 
-<details>
-<summary>More About Me</summary>
+## 💼 Experience
+**Subject Matter Expert** · Chegg (Remote) · Apr 2023 – Present  
+– Assist students with programming & CS queries  
+– Provide clear, optimized code examples and explanations  
 
-## 🚀 Skills
-- **Full-stack Java Development**
-- **Front-end Development (HTML, CSS, Bootstrap, JavaScript)**
-- **Back-end Development (CPP, Java, Spring Boot, AngularJS)**
-- **Database Management (MySQL)**
-- **Problem Solving**
-- **Clean and Efficient Code Writing**
-
-## 🎨 Hobbies
-I am not just a developer; I am also passionate about sketching. Here are some of my sketch artworks:
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="pic1.jpg" alt="Sketch 1" width="200px">
-  <img src="pic2.jpg" alt="Sketch 2" width="200px">
-  <img src="pic3.jpg" alt="Sketch 3" width="200px">
-</div>
-<hr>
+---
 
 ## 🌟 Projects
 
-Here are some of my notable projects:
+### 1. Walmart Sales Data Analysis · Mar 2025  
+Analyzed Walmart sales data to uncover trends and insights.  
+**Tech:** Python (Pandas, NumPy), MySQL, SQLAlchemy, Excel  
+- Cleaned & transformed raw data  
+- Performed EDA to reveal seasonal & customer behavior patterns  
+- Exported datasets to MySQL for BI integration  
+[🔗 Repo](https://github.com/shankar212/Walmart-Sales-Data-Analysis)
 
-## 1. **College Management System** - [Live Demo](https://github.com/shankar212/FinalCms)
-   
+---
 
-A College Management System is a web-based application designed to streamline administrative tasks in educational institutions.
+### 2. AI Resume Matcher (Google Gemini API) · May 2025  
+AI-driven tool matching resumes to job descriptions with a compatibility score.  
+**Tech:** Python, Streamlit, PDFPlumber, Google Gemini API, GitHub Actions  
+- Extracts text from PDFs & analyzes keyword/skill matches  
+- Generates a 0–100 score with actionable feedback  
+- CSV export for streamlined recruitment workflows  
+[🔗 Live Demo](https://ai-resume-matching.streamlit.app) · [🔗 Repo](https://github.com/shankar212/AI-Resume-Matcher)
 
-## Technologies Used
+---
 
-- **Backend:** Java, Spring Boot, Maven, MySQL
-- **Frontend:** Angular, HTML, JavaScript (ES6)
-- **Version Control:** Git, GitHub
+### 3. Online Equipment Booking System · Feb 2025  
+A web app to manage lab equipment reservations across departments.  
+**Tech:** PHP, MySQL, HTML/CSS, JavaScript, Bootstrap, AJAX, PHPMailer  
+- Secure authentication & session management  
+- Faculty approval workflows & automated notifications  
+[🔗 Repo](https://github.com/shankar212/Online-Equipment-Booking-System)
 
-## Features
+---
 
-- Student Management
-- Faculty Management
-- Staff Management
-- Faculty and Staff Management
-- Academic Performance 
-- Student Report
-- Fee Collection
-- User-Friendly Interface
-- Data Security
+### 4. College Management System · Jan 2025  
+Streamlined administrative tasks for educational institutions.  
+**Tech:** Java, Spring Boot, Maven, MySQL, Angular  
+- Student, faculty & staff management  
+- Academic performance tracking & fee collection  
+- Secure, user-friendly interface  
+[🔗 Live Demo](https://github.com/shankar212/FinalCms) · [🔗 Repo](https://github.com/shankar212/FinalCms)
 
-## Demo
+---
 
-Check out the [Live Demo](https://github.com/shankar212/FinalCms) to see the system in action.
+### 5. Faculty Management System · Nov 2024  
+Simplified faculty scheduling and performance tracking.  
+**Tech:** Java, Spring Boot, MySQL, Angular  
+- Schedule & performance management  
+- Intuitive interface & data security  
+[🔗 Live Demo](https://github.com/shankar212/FacultyManagement) · [🔗 Repo](https://github.com/shankar212/FacultyManagement)
 
-## Getting Started
+---
 
-Follow these steps to run the project locally:
+### 6. My Portfolio Website · Oct 2024  
+Showcase of my work, skills & art through a responsive web portfolio.  
+**Tech:** HTML, CSS, JavaScript, Bootstrap  
+- Custom design & interactive sections  
+- Highlights projects, skills & contact info  
+[🔗 Live Site](https://shankar212.github.io/Myportfolio/portfolio) · [🔗 Repo](https://github.com/shankar212/Myportfolio)
 
-1. Clone the repository:
+---
 
-   ```bash
-   git clone https://github.com/shankar212/FinalCms.git
-   cd FinalCms
-<hr>
+## 🛠️ Skills & Tools
+- **Languages:** Java, C++, JavaScript, PHP, Python  
+- **Frameworks:** Spring Boot, AngularJS, Streamlit  
+- **Databases & Cloud:** MySQL, Oracle DB, Firebase, GCP  
+- **Tools:** VS Code, IntelliJ, Git/GitHub, Postman, MySQL Workbench  
+- **Soft Skills:** Leadership, Problem-Solving, Time Management, Critical Thinking
 
+---
 
+## 🎨 Hobbies & Interests
+- Sketching & Digital Art  
+- Full-Stack Dev, Cloud Computing, & Database Design
 
-## 2.**Faculty Management System** - [Live Demo](https://github.com/shankar212/FacultyManagement)
- 
+---
 
-A Faculty Management system designed to simplify faculty-related tasks within an educational institution.
+## 📜 Certifications & Awards
+- Google Associate Cloud Engineer  
+- Google Data Analytics Professional  
+- Cognizant Full Stack Java Developer  
+- Best Employee of the Month (Multiple times)
 
-## Live Demo
+---
 
-Explore the repo to see the system in action.
+## 📍 Leadership & Mentorship
+- Class Representative, MCA 1st Year (Sep 2023 – Jun 2024)  
+- Mentor, Mentor To Go (Dec 2023 – Present)
 
-## Features
-
-- Faculty Information Management
-- Schedule Management
-- Faculty Performance Tracking
-- User-Friendly Interface
-- Data Security
-
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/shankar212/FacultyManagement.git
-   cd FacultyManagement
-
-<hr>
-
-## 3.**My Portfolio** - [GitHub Repo](https://github.com/shankar212/Myportfolio)
-   - Portfolio live : https://shankar212.github.io/Myportfolio/portfolio#experience
-
-   - I designed and implemented this project from the ground up, taking a hands-on approach to every aspect of development. It showcases my expertise in web development, particularly in using HTML, CSS, JavaScript, and other relevant technologies. The project's codebase is well-organized and follows best practices, making it easily maintainable and scalable.
-
-</details>
+---
 
 ## 📬 Contact
-Feel free to reach out to me via email at [shankerr7780@gmail.com](mailto:shankerr7780@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rathod-shanker-4a609421b/). [Instagram](https://www.instagram.com/shanker_rathodd/).
-
-<!-- Add any additional sections or information you'd like to include -->
+✉️ [shankerr7780@gmail.com](mailto:shankerr7780@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rathod-shanker-4a609421b/) · [Instagram](https://www.instagram.com/shanker_rathodd/)
