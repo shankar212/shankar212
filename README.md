@@ -10,7 +10,7 @@
 
 Welcome to my GitHub! I’m Rathod—combining code with creativity. Currently pursuing my MCA at NIT Warangal, I build full-stack applications by day and sketch by night. Explore below!
 
-[🔗 Portfolio](https://shankar212.github.io/portfolio/portfolio)  
+[🔗 Portfolio](https://shankerr.me)  
 
 ---
 
