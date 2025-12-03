@@ -29,13 +29,39 @@ National Institute of Technology, Warangal · **Class of 2026**
 
 ## 🌟 Projects
 
-### 1. Walmart Sales Data Analysis · Mar 2025  
-Analyzed Walmart sales data to uncover trends and insights.  
-**Tech:** Python (Pandas, NumPy), MySQL, SQLAlchemy, Excel  
-- Cleaned & transformed raw data  
-- Performed EDA to reveal seasonal & customer behavior patterns  
-- Exported datasets to MySQL for BI integration  
-[🔗 Repo](https://github.com/shankar212/Walmart-Sales-Data-Analysis)
+## 🚀 Projects
+
+### 1. Doctor’s Personal and AI Companion Portal · 2025  
+AI-powered medical portal for seamless doctor–patient interaction.  
+**Tech:** Next.js, Tailwind CSS, Firebase (Auth + Firestore), Google Gemini API, Vercel  
+- Built secure login, patient management, and appointment scheduling  
+- Integrated Gemini AI for symptom analysis and treatment suggestions  
+- Real-time data sync using Firebase Authentication & Firestore  
+- Fully deployed on Vercel with optimized performance  
+🔗 **Live:** https://kailash-rathod.vercel.app
+
+---
+
+### 2. Online Movie Ticket Booking System · 2025  
+Payment-integrated movie ticket booking app built on Streamlit.  
+**Tech:** Python, Streamlit, Cashfree API, Google Sheets API  
+- Integrated Cashfree Payments for seamless checkout  
+- Auto-generated movie ticket with QR code verification  
+- Multi-seat selection with dynamic pricing  
+- Booking data synced to Google Sheets in real time  
+🔗 **Live:** https://moviebookingonline.streamlit.app
+
+---
+
+### 3. Smart Irrigation System using IoT · 2025  
+IoT-based smart irrigation automation system.  
+**Tech:** ESP32, DHT11, Soil Moisture Sensor, ThingSpeak, Telegram Bot, Arduino IDE  
+- Automated irrigation based on real-time soil moisture levels  
+- Remote monitoring and control through a Telegram Bot  
+- Live sensor analytics using ThingSpeak & ThingHTTP  
+- Designed for low-cost and energy-efficient farm automation  
+🔗 **Repo:** https://github.com/shankar212/Smart-Irrigation-System-using-IoT
+
 
 ---
 
