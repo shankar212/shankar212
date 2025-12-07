@@ -31,7 +31,9 @@ National Institute of Technology, Warangal · **Class of 2026**
 
 ## 🚀 Projects
 ### 1. 🛒 Grocery Price Tracker — Fully Serverless AWS System · 2025
+
 Automated price-tracking system that scrapes grocery prices, stores history, detects price drops, and sends alerts — all built using a 100% serverless architecture.
+
 **Tech:** AWS Lambda, DynamoDB + Streams, SNS, API Gateway, CloudWatch, S3, IAM, CloudFront, Python
 - Automated scraper runs every 6 hours to fetch live prices from BigBasket
 - DynamoDB Streams detect changes and trigger instant price-drop email alerts
@@ -43,7 +45,8 @@ Automated price-tracking system that scrapes grocery prices, stores history, det
 ---
 
 ### 2. Doctor’s Personal and AI Companion Portal · 2025  
-AI-powered medical portal for seamless doctor–patient interaction.  
+AI-powered medical portal for seamless doctor–patient interaction.
+
 **Tech:** Next.js, Tailwind CSS, Firebase (Auth + Firestore), Google Gemini API, Vercel  
 - Built secure login, patient management, and appointment scheduling  
 - Integrated Gemini AI for symptom analysis and treatment suggestions  
@@ -54,7 +57,8 @@ AI-powered medical portal for seamless doctor–patient interaction.
 ---
 
 ### 3. Online Movie Ticket Booking System · 2025  
-Payment-integrated movie ticket booking app built on Streamlit.  
+Payment-integrated movie ticket booking app built on Streamlit. 
+
 **Tech:** Python, Streamlit, Cashfree API, Google Sheets API  
 - Integrated Cashfree Payments for seamless checkout  
 - Auto-generated movie ticket with QR code verification  
@@ -66,6 +70,7 @@ Payment-integrated movie ticket booking app built on Streamlit.
 
 ### 4. Smart Irrigation System using IoT · 2025  
 IoT-based smart irrigation automation system.  
+
 **Tech:** ESP32, DHT11, Soil Moisture Sensor, ThingSpeak, Telegram Bot, Arduino IDE  
 - Automated irrigation based on real-time soil moisture levels  
 - Remote monitoring and control through a Telegram Bot  
@@ -78,6 +83,7 @@ IoT-based smart irrigation automation system.
 
 ### 5. AI Resume Matcher (Google Gemini API) · May 2025  
 AI-driven tool matching resumes to job descriptions with a compatibility score.  
+
 **Tech:** Python, Streamlit, PDFPlumber, Google Gemini API, GitHub Actions  
 - Extracts text from PDFs & analyzes keyword/skill matches  
 - Generates a 0–100 score with actionable feedback  
@@ -87,7 +93,8 @@ AI-driven tool matching resumes to job descriptions with a compatibility score.
 ---
 
 ### 6. Online Equipment Booking System · Feb 2025  
-A web app to manage lab equipment reservations across departments.  
+A web app to manage lab equipment reservations across departments. 
+
 **Tech:** PHP, MySQL, HTML/CSS, JavaScript, Bootstrap, AJAX, PHPMailer  
 - Secure authentication & session management  
 - Faculty approval workflows & automated notifications  
@@ -97,6 +104,7 @@ A web app to manage lab equipment reservations across departments.
 
 ### 7. College Management System · Jan 2025  
 Streamlined administrative tasks for educational institutions.  
+
 **Tech:** Java, Spring Boot, Maven, MySQL, Angular  
 - Student, faculty & staff management  
 - Academic performance tracking & fee collection  
@@ -108,6 +116,7 @@ Streamlined administrative tasks for educational institutions.
 
 ### 8. My Portfolio Website · Oct 2024  
 Showcase of my work, skills & art through a responsive web portfolio.  
+
 **Tech:** HTML, CSS, JavaScript, Bootstrap  
 - Custom design & interactive sections  
 - Highlights projects, skills & contact info  
@@ -117,8 +126,8 @@ Showcase of my work, skills & art through a responsive web portfolio.
 
 ## 🛠️ Skills & Tools
 - **Languages:** Java, C++, JavaScript, PHP, Python  
-- **Frameworks:** Spring Boot, AngularJS, Streamlit  
-- **Databases & Cloud:** MySQL, Oracle DB, Firebase, GCP  
+- **Frameworks:** Spring Boot, AngularJS, Streamlit,Next.JS  
+- **Databases & Cloud:** MySQL, Oracle DB, Firebase, GCP, AWS, Docker, Kubernetes.
 - **Tools:** VS Code, IntelliJ, Git/GitHub, Postman, MySQL Workbench  
 - **Soft Skills:** Leadership, Problem-Solving, Time Management, Critical Thinking
 
