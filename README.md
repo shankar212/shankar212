@@ -30,8 +30,19 @@ National Institute of Technology, Warangal · **Class of 2026**
 ## 🌟 Projects
 
 ## 🚀 Projects
+### 1. 🛒 Grocery Price Tracker — Fully Serverless AWS System · 2025
+Automated price-tracking system that scrapes grocery prices, stores history, detects price drops, and sends alerts — all built using a 100% serverless architecture.
+**Tech:** AWS Lambda, DynamoDB + Streams, SNS, API Gateway, CloudWatch, S3, IAM, CloudFront, Python
+- Automated scraper runs every 6 hours to fetch live prices from BigBasket
+- DynamoDB Streams detect changes and trigger instant price-drop email alerts
+- Serverless API returns latest & previous prices with trend indicators
+- Live dashboard hosted on S3 + CloudFront for fast global access
+- Event-driven, scalable, and completely maintenance-free
+🔗 **Github :** https://github.com/shankar212/grocery-price-tracker-aws
+🔗 **Live :** https://dtwq2wflaat5o.cloudfront.net/
+---
 
-### 1. Doctor’s Personal and AI Companion Portal · 2025  
+### 2. Doctor’s Personal and AI Companion Portal · 2025  
 AI-powered medical portal for seamless doctor–patient interaction.  
 **Tech:** Next.js, Tailwind CSS, Firebase (Auth + Firestore), Google Gemini API, Vercel  
 - Built secure login, patient management, and appointment scheduling  
@@ -42,7 +53,7 @@ AI-powered medical portal for seamless doctor–patient interaction.
 
 ---
 
-### 2. Online Movie Ticket Booking System · 2025  
+### 3. Online Movie Ticket Booking System · 2025  
 Payment-integrated movie ticket booking app built on Streamlit.  
 **Tech:** Python, Streamlit, Cashfree API, Google Sheets API  
 - Integrated Cashfree Payments for seamless checkout  
@@ -53,7 +64,7 @@ Payment-integrated movie ticket booking app built on Streamlit.
 
 ---
 
-### 3. Smart Irrigation System using IoT · 2025  
+### 4. Smart Irrigation System using IoT · 2025  
 IoT-based smart irrigation automation system.  
 **Tech:** ESP32, DHT11, Soil Moisture Sensor, ThingSpeak, Telegram Bot, Arduino IDE  
 - Automated irrigation based on real-time soil moisture levels  
@@ -65,7 +76,7 @@ IoT-based smart irrigation automation system.
 
 ---
 
-### 2. AI Resume Matcher (Google Gemini API) · May 2025  
+### 5. AI Resume Matcher (Google Gemini API) · May 2025  
 AI-driven tool matching resumes to job descriptions with a compatibility score.  
 **Tech:** Python, Streamlit, PDFPlumber, Google Gemini API, GitHub Actions  
 - Extracts text from PDFs & analyzes keyword/skill matches  
@@ -75,7 +86,7 @@ AI-driven tool matching resumes to job descriptions with a compatibility score.
 
 ---
 
-### 3. Online Equipment Booking System · Feb 2025  
+### 6. Online Equipment Booking System · Feb 2025  
 A web app to manage lab equipment reservations across departments.  
 **Tech:** PHP, MySQL, HTML/CSS, JavaScript, Bootstrap, AJAX, PHPMailer  
 - Secure authentication & session management  
@@ -84,7 +95,7 @@ A web app to manage lab equipment reservations across departments.
 
 ---
 
-### 4. College Management System · Jan 2025  
+### 7. College Management System · Jan 2025  
 Streamlined administrative tasks for educational institutions.  
 **Tech:** Java, Spring Boot, Maven, MySQL, Angular  
 - Student, faculty & staff management  
@@ -94,16 +105,8 @@ Streamlined administrative tasks for educational institutions.
 
 ---
 
-### 5. Faculty Management System · Nov 2024  
-Simplified faculty scheduling and performance tracking.  
-**Tech:** Java, Spring Boot, MySQL, Angular  
-- Schedule & performance management  
-- Intuitive interface & data security  
-[🔗 Live Demo](https://github.com/shankar212/FacultyManagement) · [🔗 Repo](https://github.com/shankar212/FacultyManagement)
 
----
-
-### 6. My Portfolio Website · Oct 2024  
+### 8. My Portfolio Website · Oct 2024  
 Showcase of my work, skills & art through a responsive web portfolio.  
 **Tech:** HTML, CSS, JavaScript, Bootstrap  
 - Custom design & interactive sections  
