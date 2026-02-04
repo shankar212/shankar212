@@ -6,7 +6,7 @@
 </div>
 
 # Hi there 👋 I'm Rathod Shanker  
-#### NITW ’26 MCA Student | Former Senior Analyst at Cognizant | Full-Stack Developer | Data & Tech Enthusiast | Sketch Artist 🎨  
+#### NITW ’26 MCA Student | Ex- Cognizant | Full-Stack Developer | Data & Tech Enthusiast | Sketch Artist 🎨  
 
 Welcome to my GitHub! I’m Rathod—combining code with creativity. Currently pursuing my MCA at NIT Warangal, I build full-stack applications by day and sketch by night. Explore below!
 
