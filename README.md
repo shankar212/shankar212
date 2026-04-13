@@ -19,11 +19,53 @@ Welcome to my GitHub! I’m Rathod—combining code with creativity. Currently p
 National Institute of Technology, Warangal · **Class of 2026**
 
 ---
-
 ## 💼 Experience
-**Subject Matter Expert** · Chegg (Remote) · Apr 2023 – Present  
-– Assist students with programming & CS queries  
-– Provide clear, optimized code examples and explanations  
+
+### 🧠 LLM Annotator (AI Agent / CUA Trajectory Specialist)
+**Turing (Freelance)** | Apr 2026 – Present | Remote  
+- Designing and validating structured Computer-Use Agent (CUA) trajectories for AI systems  
+- Translating natural language instructions into precise, step-by-step executable workflows  
+- Working with APIs, browser automation, and scripting (Python/Bash)  
+- Ensuring accuracy, consistency, and real-world applicability of AI-generated actions  
+
+---
+
+### 👨‍🏫 Career Development Mentor
+**Mentor Together (Part-time)** | Dec 2023 – Mar 2026 | Remote  
+- Coached students and early-career professionals on career planning and skill-building  
+- Supported personal development in communication, problem-solving, and confidence-building  
+- Shared real-world insights in cloud computing, full-stack development, and software engineering  
+- Guided mentees in interview preparation, resume building, and career transitions  
+- Fostered a growth-oriented and supportive mentoring environment  
+
+---
+
+### 💻 Subject Matter Expert
+**Chegg (Remote)** | Apr 2023 – Dec 2025  
+- Assisted students with programming and computer science queries  
+- Provided clear, optimized code examples and detailed explanations  
+
+---
+
+### 🎓 Campus Ambassador
+**Internshala (Part-time)** | May 2024 – Jun 2024 | Remote  
+- Represented Internshala within the university, driving student engagement and outreach  
+- Promoted internships through digital marketing, campus events, and peer counseling  
+- Enhanced brand visibility using communication and networking skills  
+- Guided students on career opportunities and skill development programs  
+- Collaborated on campaigns and awareness drives to boost participation  
+
+---
+
+### 🧑‍💼 Programmer Analyst
+**Cognizant (Full-time)** | Sep 2021 – Sep 2023 | Hyderabad, India  
+- Supported cloud-hosted enterprise applications by analyzing logs and operational data  
+- Optimized backend workflows, improving efficiency and turnaround time  
+- Performed data validation, quality checks, and root-cause analysis  
+- Collaborated with development, QA, and operations teams for issue resolution  
+- Monitored application performance and contributed to system improvements  
+- Followed security, compliance, and standard operating procedures  
+
 
 ---
 
