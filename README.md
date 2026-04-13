@@ -22,7 +22,7 @@ National Institute of Technology, Warangal · **Class of 2026**
 ## 💼 Experience
 
 ### 🧠 LLM Annotator (AI Agent / CUA Trajectory Specialist)
-**Turing (Freelance)** | Apr 2026 – Present | Remote  
+**Turing (Contract)** | Apr 2026 – Present | Remote  
 - Designing and validating structured Computer-Use Agent (CUA) trajectories for AI systems  
 - Translating natural language instructions into precise, step-by-step executable workflows  
 - Working with APIs, browser automation, and scripting (Python/Bash)  
